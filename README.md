@@ -24,4 +24,4 @@ python3 -m http.server 8000
 
 ## Deploying to GitHub Pages
 
-Enable Pages on the `main` branch (root). The site is fully static. r
+Enable Pages on the `main` branch (root). The site is fully static. rr
